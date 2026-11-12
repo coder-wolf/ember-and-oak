@@ -2,6 +2,8 @@
 
 A warm, editorial one-page site for **Ember & Oak Coffee Roasters**, a fictional specialty coffee house on SE Division in Portland. Built from the product requirements in [`PRD.md`](./PRD.md).
 
+**Live:** [ember-and-oak-jet.vercel.app](https://ember-and-oak-jet.vercel.app)
+
 The page is designed around one job: turn a curious visitor into a first-time walk-in. Everything else — the room, the coffee, the people — is proof that it's worth the trip.
 
 ![Ember & Oak landing page](./public/images/og.jpg)
